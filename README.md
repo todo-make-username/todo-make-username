@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 ### About Me:<br>
 💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp; I Graduated from the University of San Antonio with a Bachelor's in Computer Science.\
-☁️ &nbsp; My personal goal is to eventually release my own RPG game.
+☁️ &nbsp; My personal goal is to eventually release my own game.
 
 <!---
 <details>
