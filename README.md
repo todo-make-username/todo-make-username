@@ -68,6 +68,8 @@ Design and implement a custom DateTime class within a game engine to give games 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=ffffff)&nbsp;
 
+<!---
+Disabled for now until I have non-private repos to show
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -78,6 +80,8 @@ Design and implement a custom DateTime class within a game engine to give games 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=game-dev-matt&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+--->
 
 <!---
 Credits for readme ideas:
