@@ -13,16 +13,16 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <em>
-    Hey Everyone! I'm Matt, a software developer. Welcome to my personal projects page where I work on replicating game systems for fun.
+    Hey Everyone! I'm Matt, a software developer. Welcome to my personal page!
   </em> 
 </p>
 
 <br>
 
 ### About Me:<br>
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp; I Graduated from the University of San Antonio with a Bachelor's in Computer Science.\
-☁️ &nbsp; My personal goal is to eventually release my own game.
+💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks\
+🎓 &nbsp; I Graduated from the University of San Antonio with a Bachelor's in Computer Science\
+👀 &nbsp; I enjoy dissecting and replicating various mechanics from video games in my free time
 
 <!---
 <details>
@@ -37,9 +37,12 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## 📝&nbsp;Recent Projects
+### Recipe Book: <br>
+A Laravel web application to house cooking recipes, as well as automatically generate shopping lists.
+
 ### Data Driven Game Systems with SQLite: <br>
-Developed using the Godot Game Engine and SQLite, the goal was to determine the feasibility for retriving large amounts of static game data during runtime in complex games. 
-For use in item systems, text-based systems (including translations), and enemy data.
+Developed using the Godot Game Engine and SQLite, the goal was to determine the feasibility for retriving large amounts of static game data during runtime in complex games using the factory design pattern. 
+For use in item systems, and enemy data.
 
 ### Game Clock: <br>
 Design and implement a custom DateTime class within a game engine to give games their own internal clock and calendar, completely independent of the OS clock.
