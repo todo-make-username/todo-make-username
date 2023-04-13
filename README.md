@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 📝&nbsp;Recent Projects
 ### Terminal-Based Game: <br>
-An application developed in Godot to learn the delegator pattern. Will be used as a refrence for a c++ project as a refresher in c++, as well as an experiment by combining it with the data driven game design project.
+An series of small games developed to learn the many ways of input handling across various languages. 
 
 ### Recipe Book: <br>
 A Laravel web application to house cooking recipes, as well as automatically generate shopping lists.
