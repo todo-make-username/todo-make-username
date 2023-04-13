@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 📝&nbsp;Recent Projects
 ### Terminal-Based Game: <br>
-An series of small games developed to learn the many ways of input handling across various languages. 
+A series of small games developed to learn the many ways of input handling across various languages. 
 
 ### Recipe Book: <br>
 A Laravel web application to house cooking recipes, as well as automatically generate shopping lists.
