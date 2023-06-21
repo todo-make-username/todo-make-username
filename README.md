@@ -1,14 +1,3 @@
-<!---
-game-dev-matt/game-dev-matt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- 👋 Hi, I’m @game-dev-matt
-- 👀 I’m interested in replicating game systems
-- 🌱 I’m currently learning Godot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-
 ## 👋&nbsp;Intro
 
 <p align="center">
@@ -24,19 +13,12 @@ You can click the Preview link to take a look at your changes.
 🎓 &nbsp; I Graduated from the University of San Antonio with a Bachelor's in Computer Science\
 👀 &nbsp; I enjoy dissecting and replicating various mechanics from video games in my free time
 
-<!---
-<details>
-<summary><b>About Me</b></summary><br>
-
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp; I Graduated from the University of San Antonio with a Bachelor's in Computer Science.\
-☁️ &nbsp; My personal goal is to eventually release my own RPG game.
-</details>
---->
-
 <br>
 
 ## 📝&nbsp;Recent Projects
+### [PHP Struct Objects](https://github.com/todo-make-username/struct) <br>
+A simple extendable class to convert and validate data.
+
 ### Terminal-Based Game: <br>
 A series of small games developed to learn the many ways of input handling across various languages. 
 
@@ -74,20 +56,16 @@ Design and implement a custom DateTime class within a game engine to give games 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=ffffff)&nbsp;
 
-<!---
-Disabled for now until I have non-private repos to show
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/game-dev-matt">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=game-dev-matt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>\
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=game-dev-matt&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/todo-make-username">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=todo-make-username&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>\
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=todo-make-username&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
---->
 
 <!---
 Credits for readme ideas:
