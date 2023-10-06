@@ -9,12 +9,13 @@
 <br>
 
 ### About Me:<br>
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks\
-🎓 &nbsp; I Graduated from the University of San Antonio with a Bachelor's in Computer Science\
+💡 &nbsp; I like to explore new technologies and develop software solutions\
+🎓 &nbsp; I graduated from the University of San Antonio with a Bachelor's in Computer Science\
+💼 &nbsp; My work background consists mainly of the design and development of internal tools and applications\
 👀 &nbsp; I enjoy dissecting and replicating various mechanics from video games in my free time
 
 <br>
-
+<!--
 ## 📝&nbsp;Recent Projects
 ### [PHP Struct Objects](https://github.com/todo-make-username/struct) <br>
 A simple extendable class to convert and validate data.
@@ -33,6 +34,7 @@ For use in item systems, and enemy data.
 Design and implement a custom DateTime class within a game engine to give games their own internal clock and calendar, completely independent of the OS clock.
 
 <br>
+-->
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -51,7 +53,6 @@ Design and implement a custom DateTime class within a game engine to give games 
 ![Godot](https://img.shields.io/badge/-Godot-05122A?style=flat&logo=godot-engine)&nbsp;
 ![UE4](https://img.shields.io/badge/-UE4-05122A?style=flat&logo=unreal-engine)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
-![Atom](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom&logoColor=009688)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=ffffff)&nbsp;
