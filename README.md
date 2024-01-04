@@ -1,21 +1,20 @@
-## 👋&nbsp;Intro
+## 👋 &nbsp; About Me
 
 <p align="center">
-  Hey Everyone! I'm Matt, a full-stack software developer. Welcome to my personal page!
+	Hey Everyone! I'm Matt, a full-stack software developer. Welcome to my personal page!
 </p>
 
 <br>
 
-### About Me:
 💡 &nbsp; I like to explore new technologies and develop software solutions\
 🎓 &nbsp; I graduated from the University of San Antonio with a Bachelor's in Computer Science\
 💼 &nbsp; My work background consists mainly of full-stack (LAMP) development\
 ⌨️ &nbsp; My passion is making people's jobs/lives easier by developing libraries and internal systems\
-👀 &nbsp; For fun, I enjoy learning, dissecting, replicating various mechanics from video games
+👀 &nbsp; For fun I enjoy learning, dissecting, and replicating various mechanics from video games
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp; Tech Stack
 **System**\
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=ffffff)&nbsp;
 
@@ -40,13 +39,12 @@
 
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
+## ⚙️ &nbsp; GitHub Analytics
 <p align="center">
-<a href="https://github.com/todo-make-username">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=todo-make-username&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>\
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=todo-make-username&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+	<a href="https://github.com/todo-make-username">
+		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=todo-make-username&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=todo-make-username&layout=compact&langs_count=8&theme=algolia"/>
+	</a>
 </p>
 
 <!---
